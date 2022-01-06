@@ -7,9 +7,9 @@ The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, 
 
 ## Data
 
-The files are in the 'data' folder. The dataset contains 1~000 instances. Each instance is composed of a premise and two alternatives, where the task is to select the alternative that more plausibly has a causal relation with the premise.
+The files are in the 'data' folder. The dataset contains 1 000 instances. Each instance is composed of a premise and two alternatives. The task is to select the alternative that describes a situation standing in causal relation to the situation described by the premise.
 
-The proportion of train, devel and test sets is 400-100-500 instances, following the splits of the original English dataset (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). 
+The train, devel and test sets contain 400, 100 and 500 instances, respectively, following the splits of the original English dataset (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). 
 
 ## Data format
 
