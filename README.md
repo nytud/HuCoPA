@@ -11,7 +11,7 @@ The train, development and test sets contain 400, 100 and 500 instances, respect
 
 The data files are in json format. The keys are the following:
 
-`idx`: unique id of the instances, an integer between 1 and 1000;
+`idx`: unique id of the instances;
 
 `question`: "cause" or "effect". It suggests what kind of causal relation are we looking for: in the case of "cause" we search for the more plausible alternative that may be a cause of the premise. In the case of "effect" we are looking for a plausible result of the premise;
 
