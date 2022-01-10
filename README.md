@@ -69,7 +69,7 @@ kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungar
 
 @inproceedings{ligetinagy2022hulu,
   title={HuLU: magyar nyelvű benchmark adatbázis kiépítése a neurális nyelvmodellek kiértékelése céljából},
-  author={Ligeti-Nagy, N. and Ferenczi, G. and Héja, E. and Jelencsik-Mátyus, K. and Laki, L. J. and Vadász, N. and Yang, Z. Gy. and Vadász, T.},
+  author={Ligeti-Nagy, N. and Ferenczi, G. and Héja, E. and Jelencsik-Mátyus, K. and Laki, L. J. and Vadász, N. and Yang, Z. Gy. and Váradi, T.},
   booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
   year={2022}
 }
