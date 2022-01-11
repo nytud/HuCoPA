@@ -5,7 +5,7 @@ This is the home repository for the Hungarian Choice of Plausible Alternatives C
 
 The files are in the 'data' folder. The dataset contains 1 000 instances. Each instance is composed of a premise and two alternatives. The task is to select the alternative that describes a situation standing in causal relation to the situation described by the premise.
 
-The train, development and test sets contain 400, 100 and 500 instances, respectively, following the splits of the original English dataset (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is accuracy.
+The train, validation and test sets contain 400, 100 and 500 instances, respectively, following the splits of the original English dataset (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is accuracy.
 
 ## Data format
 
@@ -62,7 +62,6 @@ If you use this corpus, please cite our paper, and the original CoPA corpus' pap
 If you use this resource or any part of its documentation, please refer to:
 
 Ligeti-Nagy, N., Ferenczi, G., Héja, E., Jelencsik-Mátyus, K., Laki, L. J., Vadász, N., Yang, Z. Gy. and Váradi, T. (2022) HuLU: magyar nyelvű benchmark adatbázis
-
 kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungarian benchmark dataset to evaluate neural language models]. XVIII. Magyar Számítógépes Nyelvészeti Konferencia. (in press)
 
 ```
