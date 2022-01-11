@@ -73,7 +73,7 @@ kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungar
   booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
   year={2022}
 }
-
+```
 and to:
 
 Roemmele, M., Bejan, C., and Gordon, A. (2011) Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning. AAAI Spring Symposium on Logical Formalizations of Commonsense Reasoning, Stanford University, March 21-23, 2011.
