@@ -1,11 +1,11 @@
 # HuCoPA
-This is the home repository for the Hungarian Choice of Plausible Alternatives Corpus (HuCoPA), which is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](hulu.nlp.nytud.hu). The corpus was created by translating and re-annotating the original English CoPA corpus. 
+This is the home repository for the Hungarian Choice of Plausible Alternatives Corpus (HuCoPA), which is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](hulu.nytud.hu). The corpus was created by translating and re-annotating the original English CoPA corpus. 
 
 ## Data
 
 The files are in the 'data' folder. The dataset contains 1 000 instances. Each instance is composed of a premise and two alternatives. The task is to select the alternative that describes a situation standing in causal relation to the situation described by the premise.
 
-The train, validation and test sets contain 400, 100 and 500 instances, respectively, following the splits of the original English dataset (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is accuracy.
+The train, validation and test sets contain 400, 100 and 500 instances, respectively, following the splits of the original English dataset (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is accuracy.
 
 ## Data format
 
