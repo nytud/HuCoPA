@@ -1,5 +1,5 @@
 # HuCoPA
-This is the home repository for the Hungarian Choice of Plausible Alternatives Corpus (HuCoPA), which is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](hulu.nytud.hu). The corpus was created by translating and re-annotating the original English CoPA corpus. 
+This is the home repository for the Hungarian Choice of Plausible Alternatives Corpus (HuCoPA), which is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](https://hulu.nytud.hu/). The corpus was created by translating and re-annotating the original English CoPA corpus. 
 
 ## Data
 
@@ -60,6 +60,35 @@ If you use this corpus, please cite our paper, and the original CoPA corpus' pap
 ## Citation
 
 If you use this resource or any part of its documentation, please refer to:
+
+Noémi Ligeti-Nagy, Gergő Ferenczi, Enikő Héja, László János Laki, Noémi Vadász, Zijian Győző Yang, and Tamás Váradi. 2024. HuLU: Hungarian Language Understanding Benchmark Kit. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 8360–8371, Torino, Italia. ELRA and ICCL.
+
+```
+@inproceedings{ligeti-nagy-etal-2024-hulu-hungarian,
+    title = "{H}u{LU}: {H}ungarian Language Understanding Benchmark Kit",
+    author = "Ligeti-Nagy, No{\'e}mi  and
+      Ferenczi, Gerg{\H{o}}  and
+      H{\'e}ja, Enik{\H{o}}  and
+      Laki, L{\'a}szl{\'o} J{\'a}nos  and
+      Vad{\'a}sz, No{\'e}mi  and
+      Yang, Zijian Gy{\H{o}}z{\H{o}}  and
+      V{\'a}radi, Tam{\'a}s",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.733",
+    pages = "8360--8371",
+}
+```
+and 
 
 Ligeti-Nagy, N., Ferenczi, G., Héja, E., Jelencsik-Mátyus, K., Laki, L. J., Vadász, N., Yang, Z. Gy. and Váradi, T. (2022) HuLU: magyar nyelvű benchmark adatbázis kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungarian benchmark dataset to evaluate neural language models]. In: Berend, G., Gosztolya, G. and Vincze, V. (eds), XVIII. Magyar Számítógépes Nyelvészeti Konferencia. Szeged, Szegedi Tudományegyetem, Informatikai Intézet. 431–446.
 
